@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.player {
+    margin: 20px;
+    font-size: 24px;
+    flex: 1;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+.input-container {
+    margin-top: 20px;
+}
+
+.game-over {
+    margin-top: 30px;
+    font-size: 24px;
+    color: red;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
